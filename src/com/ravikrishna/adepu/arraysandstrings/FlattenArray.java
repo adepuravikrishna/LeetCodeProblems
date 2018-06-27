@@ -6,6 +6,7 @@ import java.util.List;
 // [[5,3,4],[1,0],[645,64]]
 
 //[5,1,645,3,0,64,4]
+//making changes
 
 public class FlattenArray {
 	
